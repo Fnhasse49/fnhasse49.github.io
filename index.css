@@ -1,0 +1,78 @@
+.site{
+	background-color: yellow;
+	height: 1280px;
+	width:1000px;
+}
+.cabecalho{
+	background-color: aquamarine;
+	height: 150px;
+	color: red;
+}
+.cabecalho p{
+	text-align: center;
+	font-size: 25px;
+}
+.cabecalho img{
+	float: right;
+	margin: 5px;
+}
+.box img{
+	height: 295px;
+	width: 295px;
+	margin: 0 auto;
+	margin-left: 15px;
+}
+
+.corpo{
+	height: 1110px;
+}
+.corpo p{
+	text-align: justify;
+	margin: 15px
+}
+.artigos{
+	background-color: blue;
+	margin-left: 15px;
+	margin-right: 15px;
+	color: white;
+}
+.artigos h4{
+	font-size: 20;
+	margin: 15px;
+} 
+.Serviços{
+	color: pink;
+}
+.Serviços ul{
+	list-style: none;
+}
+.Serviços ul li{
+	display: table-cell;
+}
+.Serviços ul li a{
+	text-decoration: none;
+	margin-left: 30px;
+	color: white;
+}
+.rodape{
+	background-color: black;
+	height: 25px;
+}
+.rodape p{
+	color: white;
+	text-align: center;
+}
+	
+.sidebar{
+	float: right;
+	width: 350px;
+	height: 0 auto;
+	background-color: gray;
+	margin: 6px;
+}
+.sidebar label, input, textarea{
+	margin: 20px;
+}
+.sidebar form{
+	height: 889px;
+}
